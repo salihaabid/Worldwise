@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lahore",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-20T20:00:10.007Z",
+      "notes": "",
+      "position": {
+        "lat": "40.003042927116724",
+        "lng": "-0.0276471564450298"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-20T20:00:15.230Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02420369265581",
+        "lng": "-0.06832693334756001"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-20T20:00:18.470Z",
+      "notes": "",
+      "position": {
+        "lat": "40.04365667098623",
+        "lng": "-0.01994553211189132"
+      },
+      "id": 73930388
+    }
+  ]
+}
